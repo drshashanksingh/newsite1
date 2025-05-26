@@ -1,9 +1,6 @@
 ---
 title: "My test blog"
 permalink: /_posts/2025-05-20-my-test-post
-excerpt: "How to quickly write a blog"
-redirect_from:
-  - /theme-setup/
 toc: true
 ---
 
