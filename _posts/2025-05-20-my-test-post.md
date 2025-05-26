@@ -1,6 +1,9 @@
 ---
-layout: post
-title: "Welcome to my first Blog!"
+title: "My test blog"
+permalink: /_posts/2025-05-20-my-test-post
+excerpt: "How to quickly write a blog"
+redirect_from:
+  - /theme-setup/
 toc: true
 ---
 
@@ -16,8 +19,7 @@ toc: true
 
 I hope you like it!
 
-
-### Remote theme method
+## Remote theme method
 
 Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
 
