@@ -2,9 +2,6 @@
 ---
 layout: post
 title:  "Welcome to my first Blog!"
-tags:
-  - comments
-  - layout
 toc: true
 ---
 
