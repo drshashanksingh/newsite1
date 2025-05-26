@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title:  "Welcome to my first Blog!"
+title: "Welcome to my first Blog!"
 toc: true
 ---
 
